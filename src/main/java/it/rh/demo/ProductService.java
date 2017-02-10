@@ -76,13 +76,13 @@ public class ProductService implements Serializable {
 		if(productRepo == null)
 		{
 			productRepo = new Hashtable<String,Product>();
-			productRepo.put("1", new Product("1","Energia Pura Casa","0,065 e/kWh","fa-plug"));
-			productRepo.put("2", new Product("2","E-Light ","0,0389 e/kWh","fa-bolt"));
-			productRepo.put("3", new Product("3","Tutto Ok Luce ","0,065 e/kWh","fa-thumbs-o-up"));
-			productRepo.put("4", new Product("4","Kit e-goodlife","4e / Mese","fa-wrench"));
-			productRepo.put("5", new Product("5","Tutto OK Caldaia","8.99e / Mese","fa-fire"));
-			productRepo.put("6", new Product("6","Tutto OK Impianto","6.99e / Mese","fa-power-off"));
-			productRepo.put("7", new Product("7","Tutto OK Clima","8.99e / Mese","fa-tachometer"));
+			productRepo.put("1", new Product("1","My wonderful product 1","0,065 e/kWh","fa-plug"));
+			productRepo.put("2", new Product("2","My wonderful product 2","0,0389 e/kWh","fa-bolt"));
+			productRepo.put("3", new Product("3","My wonderful product 3","0,065 e/kWh","fa-thumbs-o-up"));
+			productRepo.put("4", new Product("4","My wonderful product 4","4e / Mese","fa-wrench"));
+			productRepo.put("5", new Product("5","My wonderful product 5","8.99e / Mese","fa-fire"));
+			productRepo.put("6", new Product("6","My wonderful product 6","6.99e / Mese","fa-power-off"));
+			productRepo.put("7", new Product("7","My wonderful product 7","8.99e / Mese","fa-tachometer"));
 		}
 	}
 	

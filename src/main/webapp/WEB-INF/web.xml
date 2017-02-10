@@ -54,5 +54,8 @@
       <role-name>guest</role-name>
     </security-role>
 -->
+	<welcome-file-list>
+    	<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
     <distributable/>
 </web-app>
