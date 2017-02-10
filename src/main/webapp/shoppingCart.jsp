@@ -31,7 +31,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-       <!--<img src="img/RH_logo_black.png"/> -->
+       <!--<img src="img/RH_logo_green.png"/> -->
           <img src="img/RH_logo.png"/>
         </a>
       </div>
